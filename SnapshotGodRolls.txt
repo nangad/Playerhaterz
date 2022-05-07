@@ -133,13 +133,3 @@ dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,47981717,15094
 dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,47981717,150943614
 dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,47981717,150943615
 dimwishlist:item=3281285075&perks=3250034553,3142289711,247725512,47981717,2697220197
-
-// ASCENDANCY Test
-//notes: (PvE): (pve)
-Slot1:Hammer-Forged Rifling
-Slot2:Accurized Rounds
-Slot3:Rapid Hit
-Slot4:Opening Shot
-Recommended MW: Range
-Mods: Targeting Adjuster|tags:pvp
-dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027
